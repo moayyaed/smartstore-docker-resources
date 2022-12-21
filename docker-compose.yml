@@ -17,7 +17,7 @@ services:
       #MYSQL_DATABASE: smartstore
       MYSQL_USER: "smartstore"
       MYSQL_PASSWORD: "smartstore"
-      MYSQL_ROOT_PASSWORD: "smartstore"
+      MYSQL_ROOT_PASSWORD: "Smartstore2000!"
     ports:
       - '3307:3306'
     expose:
