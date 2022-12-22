@@ -26,3 +26,4 @@
 + **Primary language**: Here you have the possibility to select a store language. Later more languages can be installed.
 + **Media storage**: Here the selection is made whether the media should be stored on the file system or in the database. The default setting should remain.
 + **Create sample data**: Determines whether sample data is created. For testing, this option should be enabled.
+![Alt-Text](https://www.smartstore.com/de/news/images/smartstore-installation-options-640.png)
