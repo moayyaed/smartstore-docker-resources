@@ -14,7 +14,8 @@
 + **Admin user email**: Username for the Shop Admin
 + **Admin user password**: Password of the Shop Admin
 + **Confirm the password**: Confirmation of the Shop Admin password
-+ 
+ 
+
 
 ![Database information](https://www.smartstore.com/de/news/images/smartstore-installation-store-info-640.png)  
 ### Database information
