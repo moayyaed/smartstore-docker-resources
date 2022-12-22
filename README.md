@@ -14,6 +14,7 @@
 + **Admin user email**: Username for the Shop Admin
 + **Admin user password**: Password of the Shop Admin
 + **Confirm the password**: Confirmation of the Shop Admin password
++ 
 
 ![Database information](https://www.smartstore.com/de/news/images/smartstore-installation-store-info-640.png)  
 ### Database information
@@ -26,12 +27,14 @@
 + **Password**: The password of the root user is `Smartstore2022!`
 
 
+
 ![Database information](https://www.smartstore.com/de/news/images/smartstore-installation-db-info-640.png)  
 
 ### Options
 + **Primary language**: Here you have the possibility to select a store language. Later more languages can be installed.
 + **Media storage**: Here the selection is made whether the media should be stored on the file system or in the database. The default setting should remain.
 + **Create sample data**: Determines whether sample data is created. For testing, this option should be enabled.  
+
 
 
 ![Options](https://www.smartstore.com/de/news/images/smartstore-installation-options-640.png)
