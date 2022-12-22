@@ -10,5 +10,7 @@
 * The Smartstore setup wizard will open.
 ## Input fields during setup
 ### Store Information
++ Admin user email :
++ Admin user password:
 ### Database information
 ### Options
