@@ -3,7 +3,7 @@
  * [Docker](https://www.docker.com/) 
  * [Docker compose](https://docs.docker.com/compose/install/) (Docker Desktop for Windows or Mac includes Docker Compose, install this, if you are using a Linux OS)   
 ## Download and Run Docker Compose File
-* Download the Docker Compose file
+* Download the [Docker Compose file](https://github.com/smartstore/smartstore-docker-resources/blob/main/docker-compose.yml)
 * Change to the directory where you saved the file
 * At the command line, run `docker compose up`
 ## Install Smartstore
