@@ -1,1 +1,1 @@
-This repository contains resources for deploying Smartstore in Docker.
+# Running Smartstore with MySQL in Docker
